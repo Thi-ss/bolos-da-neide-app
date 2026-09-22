@@ -1,2 +1,3 @@
-Bolos da Neide
-Um sistema criado com o propósito de entregar bolos, otimizando o trabalho e a organização da cliente Neide.
+Este repositório é dedicado ao desenvolvimento do sistema de gestão administrativa da cliente Dona Neide, projetado para organizar e estruturar os processos internos do seu negócio.
+
+O objetivo do sistema é centralizar o fluxo operacional e financeiro, automatizando o controle de contas a pagar e receber, o cálculo de impostos e margens de lucro, além de oferecer módulos para geração de relatórios consolidados e gerenciamento de permissões de acesso por nível de usuário.
