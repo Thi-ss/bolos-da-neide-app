@@ -80,6 +80,19 @@ span {
 
 }
 
+table {
+    margin:20px;
+    background-color: rgb(255, 123, 248);
+}
+
+thead {
+    background-color: rgb(245, 154, 230);
+}
+
+td {
+    padding: 6px;
+}
+
 footer {
     padding: 20px 20px;
     background-color: rgb(247, 161, 255);
