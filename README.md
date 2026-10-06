@@ -16,4 +16,4 @@ Produto -> id, nome e preco
 Relacionamentos: Como elas se conectam? (Ex: 1 Paciente agenda N Consultas).
 -> 1 Cliente faz N Pedido e Pedido contém 1 Produto.
 
-![Diagrama DER](./der-neide/der-neide-certo.drawio.png)
+![Diagrama DER](./der-neide/der-neide-novo.drawio.png)
