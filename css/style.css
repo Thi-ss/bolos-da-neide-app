@@ -49,6 +49,10 @@ span {
     background-color: #ffffff;
 }
 
+ul {
+    margin: 0px 20px;
+}
+
 #imagem-da-logo {
     width: 80%;
 }
@@ -80,9 +84,17 @@ span {
 
 }
 
+#tabela {
+    display: flex;
+    justify-content: center;
+}
+
 table {
+    
+    text-align: left;
+    width: 50%;
     margin:20px;
-    background-color: rgb(255, 123, 248);
+    background-color: rgb(252, 178, 248);
 }
 
 thead {
